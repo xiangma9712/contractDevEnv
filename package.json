@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/xiangma9712/contractDevEnv/issues"
   },
-  "homepage": "https://github.com/xiangma9712/contractDevEnv#readme"
+  "homepage": "https://github.com/xiangma9712/contractDevEnv#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.4.0"
+  }
 }
